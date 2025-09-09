@@ -1,0 +1,72 @@
+
+Last Updated: [03/22/2025]
+
+By using the QUIC platform or engaging in QUIC-related activities, you acknowledge that you have read, understood, and agreed to this Privacy Policy. If you do not agree with any part of this policy, you must refrain from using QUIC services.
+
+⸻
+
+1. Introduction
+
+This Privacy Policy (“Policy”) explains how QUIC collects, uses, stores, and protects your personal information. We are committed to safeguarding your privacy and ensuring transparency in all our processes. Your data is used strictly for improving your experience on the platform and complying with regulatory obligations.
+
+⸻
+
+2. Information We Collect
+
+We may collect the following types of information during your use of QUIC services:
+    •   Personal Information: Name, email address, phone number, and other identifiers required for account registration.
+    •   Payment Information: Wallet addresses and transaction details.
+    •   Usage Information: IP addresses, device details, and activity logs collected for analytics and security purposes.
+    •   Cookies and Tracking: Information collected through cookies to enhance functionality and personalization.
+
+⸻
+
+3. How We Use Your Information
+
+The data collected is used for:
+    •   Improving our platform’s functionality and user experience.
+    •   Ensuring compliance with legal and regulatory requirements, including KYC and AML procedures.
+    •   Communicating updates, promotions, and relevant announcements.
+    •   Analyzing usage patterns to enhance platform security and efficiency.
+
+⸻
+
+4. Data Sharing and Storage
+
+4.1 Data Sharing:
+    •   We do not sell or rent your personal information to third parties.
+    •   We may share your data with trusted service providers, compliance partners, or legal entities when required by law.
+
+4.2 Data Storage:
+    •   Data is securely stored using encryption and industry-standard security protocols.
+    •   Data retention is limited to the duration necessary for operational purposes or compliance requirements.
+
+⸻
+
+5. Your Rights
+
+You have the following rights regarding your personal data:
+    •   Access: Request access to the data we hold about you.
+    •   Correction: Request corrections to inaccurate or outdated information.
+    •   Deletion: Request deletion of your data, subject to legal or regulatory obligations.
+
+To exercise your rights, contact us at [privacy@quic.io].
+
+⸻
+
+6. Cookies and Tracking Technology
+
+For details about cookies usage, refer to the Cookies Settings section of the platform.
+
+⸻
+
+7. Changes to This Policy
+
+QUIC reserves the right to update this Policy at any time. Material changes will be communicated through official channels.
+
+⸻
+
+Contact Information:
+For privacy-related inquiries, please reach out to us at:
+    •   Email: [privacy@quic.io]
+    •   Phone: [insert phone number]

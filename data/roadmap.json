@@ -1,0 +1,92 @@
+{
+  "roadmap": [
+    {
+      "heading": "Understand Quantum Mechanics",
+      "date": "25 APR, 2024",
+      "isCheck": true,
+      "isLoading": false,
+      "isBorader": true,
+      "title": "Foundation of Quantum Computing",
+      "desc": "Learn the fundamental principles of quantum mechanics, such as superposition, entanglement, and quantum measurement.",
+      "list": [
+        {
+          "desc": "Study the double-slit experiment to understand wave-particle duality."
+        },
+        {
+          "desc": "Explore the concept of qubits and their role in representing quantum states."
+        }
+      ]
+    },
+    {
+      "heading": "Learn Quantum Algorithms",
+      "date": "10 MAY, 2024",
+      "isCheck": true,
+      "isLoading": false,
+      "isBorader": true,
+      "title": "Key Algorithms in Quantum Computing",
+      "desc": "Familiarize yourself with quantum algorithms that solve problems faster than classical methods.",
+      "list": [
+        {
+          "desc": "Study Shor's algorithm for factoring integers efficiently."
+        },
+        {
+          "desc": "Understand Grover's algorithm for unstructured search."
+        }
+      ]
+    },
+    {
+      "heading": "Develop Quantum Circuits",
+      "date": "20 MAY, 2024",
+      "isCheck": false,
+      "isLoading": true,
+      "isBorader": true,
+      "title": "Designing Quantum Logic Gates",
+      "desc": "Learn to design and simulate quantum circuits using quantum gates such as Hadamard, CNOT, and Pauli gates."
+    },
+    {
+      "heading": "Use Quantum Software Platforms",
+      "date": "5 JUN, 2024",
+      "isCheck": false,
+      "isLoading": true,
+      "isBorader": true,
+      "title": "Programming with Quantum SDKs",
+      "desc": "Explore quantum programming environments like Qiskit, Cirq, and Braket to implement and test quantum algorithms."
+    },
+    {
+      "heading": "Experiment with Quantum Hardware",
+      "date": "15 JUN, 2024",
+      "isCheck": false,
+      "isLoading": true,
+      "isBorader": true,
+      "title": "Accessing Quantum Processors",
+      "desc": "Run quantum programs on actual quantum hardware through cloud-based platforms like IBM Quantum or Rigetti."
+    },
+    {
+      "heading": "Optimize Quantum Algorithms",
+      "date": "30 JUN, 2024",
+      "isCheck": false,
+      "isLoading": false,
+      "isBorader": true,
+      "title": "Improving Quantum Efficiency",
+      "desc": "Learn to optimize quantum algorithms for reduced error rates and efficient qubit usage."
+    },
+    {
+      "heading": "Research Quantum Cryptography",
+      "date": "10 JUL, 2024",
+      "isCheck": false,
+      "isLoading": false,
+      "isBorader": true,
+      "title": "Quantum Secure Communication",
+      "desc": "Understand how quantum principles can enhance cryptography, such as quantum key distribution (QKD)."
+    },
+    {
+      "heading": "Explore Advanced Applications",
+      "date": "20 JUL, 2024",
+      "isCheck": false,
+      "isLoading": false,
+      "isBorader": false,
+      "title": "Real-World Quantum Use Cases",
+      "desc": "Investigate applications of quantum computing in fields like materials science, optimization, and AI."
+    }
+  ]
+}

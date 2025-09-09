@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="788" fill="none" viewBox="0 0 1280 788">
+  <g clip-path="url(#a)">
+    <rect width="1280" height="788" fill="url(#b)" fill-opacity=".12" rx="16"/>
+    <g filter="url(#c)" opacity=".3">
+      <mask id="e" width="852" height="853" x="640" y="157" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+        <path fill="url(#d)" d="M1492 583.841c0 235.273-190.73 425.999-426 425.999-235.273 0-426-190.726-426-425.999 0-235.273 190.727-426 426-426 235.27 0 426 190.727 426 426Z"/>
+      </mask>
+      <g mask="url(#e)">
+        <path fill="#6366F1" d="M1492 583.841c0 235.273-190.73 425.999-426 425.999-235.273 0-426-190.726-426-425.999 0-235.273 190.727-426 426-426 235.27 0 426 190.727 426 426Z"/>
+      </g>
+    </g>
+  </g>
+  <rect width="1279" height="787" x=".5" y=".5" stroke="url(#f)" stroke-opacity=".6" rx="15.5"/>
+  <defs>
+    <radialGradient id="b" cx="0" cy="0" r="1" gradientTransform="matrix(0 788 -1280 0 640 0)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset=".74" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="d" cx="0" cy="0" r="1" gradientTransform="matrix(0 426 -426 0 1066 583.841)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8C62FF"/>
+      <stop offset="1" stop-color="#8C62FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="f" cx="0" cy="0" r="1" gradientTransform="matrix(0 358.44 -969.624 0 640 0)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="a">
+      <rect width="1280" height="788" fill="#fff" rx="16"/>
+    </clipPath>
+    <filter id="c" width="1332" height="1332" x="400" y="-82.159" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur result="effect1_foregroundBlur_4266_2307" stdDeviation="120"/>
+    </filter>
+  </defs>
+</svg>

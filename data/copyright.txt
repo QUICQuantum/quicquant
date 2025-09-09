@@ -1,0 +1,151 @@
+QUIC Token Presale Terms & Conditions
+
+Last Updated: [03/22/2025]
+
+By participating in the QUIC token presale, you acknowledge that you have read, understood, and agreed to these Terms and Conditions. If you do not agree with any part of these Terms, you must refrain from purchasing QUIC tokens.
+
+⸻
+
+1. Introduction
+
+These Terms and Conditions (“Terms”) govern your participation in the QUIC token presale (“Presale”) and define your rights and obligations as a participant. QUIC is a utility token designed for use within its ecosystem and does not represent equity, security, or ownership in any company or entity.
+
+⸻
+
+2. Eligibility & Restrictions
+
+To participate in the Presale, you must meet the following eligibility criteria:
+	•	Age Requirement: Participants must be at least 18 years old or the legal age of majority in their jurisdiction.
+	•	Jurisdictional Restrictions: The sale of QUIC tokens is not available to individuals or entities in jurisdictions where participation in token sales is restricted or prohibited, including but not limited to:
+	•	The United States of America
+	•	China
+	•	Any country sanctioned by the United Nations, European Union, or the U.S. Treasury’s Office of Foreign Assets Control (OFAC)
+	•	Regulatory Compliance: Participants must ensure that their involvement does not violate any local laws or regulations.
+
+The issuer reserves the right to refuse or revoke participation for any user at its discretion.
+
+⸻
+
+3. Nature of the QUIC Token
+
+3.1 Utility Token Classification
+	•	QUIC is a utility token designed for access to products and services within its ecosystem.
+	•	QUIC does not provide ownership, voting rights, dividends, or a stake in any business.
+	•	QUIC is not a security, as defined under the U.S. Securities Act of 1933, the EU Markets in Crypto-Assets Regulation (MiCA), or any other applicable securities laws.
+
+3.2 Halal Compliance
+	•	QUIC is structured in accordance with Shariah principles, ensuring it is free from riba (interest), maysir (gambling), and gharar (excessive uncertainty).
+	•	Transactions and activities involving QUIC must comply with ethical and halal financial principles.
+
+3.3 No Investment Guarantee
+	•	QUIC does not guarantee any financial returns, profits, or appreciation in value.
+	•	Participation in the Presale should not be considered an investment in a security or asset.
+
+⸻
+
+4. Presale Structure & Token Distribution
+	•	Token Sale Phases: The Presale is divided into multiple phases, each with a different price structure.
+	•	Token Distribution:
+	•	QUIC tokens will be distributed to participants after the Presale concludes.
+	•	The distribution process may be delayed due to unforeseen technical, regulatory, or operational factors.
+	•	Unsold Tokens: The issuer reserves the right to burn, reallocate, or reserve unsold tokens for future ecosystem development.
+
+⸻
+
+5. Payments, Refunds, and Pricing
+
+5.1 Accepted Payment Methods
+
+Participants may purchase QUIC tokens using the following payment methods:
+	•	Cryptocurrencies: USDT, SOL, or other accepted digital assets.
+	•	Fiat Payments: If applicable, through approved payment channels.
+
+5.2 No Refund Policy
+	•	All purchases are final. No refunds or cancellations will be issued after participation, except where required by law.
+	•	The issuer is not liable for errors made by participants, including incorrect wallet addresses or mistaken transactions.
+
+5.3 Price Volatility Disclaimer
+	•	Token prices during the Presale are fixed, but post-sale market values may fluctuate due to demand, exchange listings, and other external factors.
+	•	Participants acknowledge and accept the risks associated with price volatility.
+
+⸻
+
+6. Risk Acknowledgment & Disclaimers
+
+By purchasing QUIC tokens, you acknowledge the following risks:
+
+6.1 Market & Financial Risks
+	•	The value of QUIC tokens is not guaranteed and may fluctuate significantly.
+	•	Cryptocurrencies are inherently volatile, and you may lose some or all of your funds.
+
+6.2 Regulatory & Legal Risks
+	•	Future regulatory changes may impact the availability or legality of QUIC in certain jurisdictions.
+	•	The issuer reserves the right to modify or halt the project if required by law.
+
+6.3 Technical Risks
+	•	Smart contract vulnerabilities, hacking, or unforeseen technical failures may affect the performance or security of QUIC.
+	•	The issuer is not responsible for losses due to blockchain congestion, network failures, or third-party service failures.
+
+⸻
+
+7. Compliance & Legal Protections
+
+7.1 No Security Representation
+	•	QUIC tokens are not an investment contract and do not confer ownership in any entity.
+	•	Participation in the Presale does not create a debtor-creditor relationship with the issuer.
+
+7.2 Anti-Money Laundering (AML) & Know Your Customer (KYC)
+	•	The issuer reserves the right to conduct KYC and AML checks to comply with regulatory obligations.
+	•	Participants may be required to verify their identity before receiving tokens.
+
+7.3 Indemnification
+
+Participants agree to indemnify and hold harmless the issuer, developers, partners, and related entities from any claims, losses, damages, or liabilities arising from their participation in the Presale.
+
+⸻
+
+8. Prohibited Activities
+
+Participants must not use QUIC tokens for:
+	•	Money laundering, terrorist financing, or any illegal activity.
+	•	Market manipulation or price-fixing schemes.
+	•	Fraudulent transactions or identity misrepresentation.
+
+The issuer reserves the right to blacklist wallets or users found engaging in prohibited activities.
+
+⸻
+
+9. Force Majeure
+
+The issuer is not liable for any delays, disruptions, or failures caused by:
+	•	Regulatory changes or government actions.
+	•	Natural disasters, cyberattacks, or blockchain network failures.
+	•	Any event beyond reasonable control.
+
+⸻
+
+10. Governing Law & Dispute Resolution
+
+10.1 Governing Law
+
+These Terms shall be governed by the laws of [Jurisdiction], without regard to conflict of law principles.
+
+10.2 Dispute Resolution
+	•	Any disputes shall be resolved through binding arbitration in [Location].
+	•	Participants waive their right to a class-action lawsuit against the issuer.
+
+⸻
+
+11. Amendments & Updates
+
+The issuer reserves the right to amend these Terms at any time. Participants will be notified of material changes through official channels. Continued participation after changes constitute acceptance of the new Terms.
+
+⸻
+
+Final Acknowledgment
+
+By purchasing QUIC tokens, you confirm that you have read, understood, and agreed to these Terms and Conditions.
+
+⸻
+
+This version includes stronger legal protections, enhanced disclaimers, and compliance provisions to safeguard the project and participants. Let me know if you want to add jurisdiction-specific clauses or additional security measures.

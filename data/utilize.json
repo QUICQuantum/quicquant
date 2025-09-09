@@ -1,0 +1,124 @@
+{
+  "utilize": [
+    {
+      "id": "getstarted_two",
+      "title": "Getting started",
+      "body": [
+        {
+          "id": "text-generator-sec",
+          "title": "Understanding Quantum Computing",
+          "subTitle": "Quantum Mechanics and Computation",
+          "img": "/images/utilize-img/ut-image-01.png",
+          "desc": "To dive into quantum computing, start by understanding the principles of quantum mechanics such as superposition, entanglement, and quantum gates. These concepts form the backbone of quantum computation.",
+          "list": [
+            {
+              "text": "Superposition allows quantum bits (qubits) to exist in multiple states simultaneously."
+            },
+            {
+              "text": "Entanglement enables qubits to be interconnected, allowing instant state correlations regardless of distance."
+            },
+            {
+              "text": "Quantum gates manipulate qubit states, enabling complex computational processes."
+            }
+          ]
+        },
+        {
+          "id": "pernalized-sec",
+          "title": "Learn Quantum Algorithms",
+          "subTitle": "Key Algorithms in Quantum Computing",
+          "img": "/images/utilize-img/ut-image-02.png",
+          "desc": "Explore well-known quantum algorithms such as Shor's algorithm for factoring and Grover's algorithm for search optimization. These algorithms showcase the potential power of quantum computation.",
+          "list": [
+            {
+              "text": "Shor's algorithm can efficiently factorize large numbers, threatening classical encryption."
+            },
+            {
+              "text": "Grover's algorithm accelerates unstructured search processes by providing quadratic speedups."
+            },
+            {
+              "text": "Quantum Fourier Transform is a core component of many quantum algorithms."
+            }
+          ]
+        },
+        {
+          "id": "engage-sec",
+          "title": "Experiment with Quantum Hardware",
+          "subTitle": "Simulators and Real Devices",
+          "img": "/images/utilize-img/ut-image-03.png",
+          "desc": "Use quantum simulators or access real quantum computers via cloud platforms like IBM Quantum, Google Quantum AI, or Rigetti Computing. Hands-on experience is invaluable for grasping quantum computing concepts.",
+          "list": [
+            {
+              "text": "IBM Quantum Experience offers access to real quantum devices and simulators."
+            },
+            {
+              "text": "Google's Sycamore processor achieved quantum supremacy by solving tasks beyond classical capabilities."
+            },
+            {
+              "text": "Rigetti's platform provides hybrid quantum-classical solutions for practical applications."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pricing_two",
+      "title": "Getting started",
+      "body": [
+        {
+          "id": "example1",
+          "title": "Understanding Quantum Computing",
+          "subTitle": "Quantum Mechanics and Computation",
+          "img": "/images/utilize-img/ut-image-01.png",
+          "desc": "To dive into quantum computing, start by understanding the principles of quantum mechanics such as superposition, entanglement, and quantum gates. These concepts form the backbone of quantum computation.",
+          "list": [
+            {
+              "text": "Superposition allows quantum bits (qubits) to exist in multiple states simultaneously."
+            },
+            {
+              "text": "Entanglement enables qubits to be interconnected, allowing instant state correlations regardless of distance."
+            },
+            {
+              "text": "Quantum gates manipulate qubit states, enabling complex computational processes."
+            }
+          ]
+        },
+        {
+          "id": "example2",
+          "title": "Learn Quantum Algorithms",
+          "subTitle": "Key Algorithms in Quantum Computing",
+          "img": "/images/utilize-img/ut-image-02.png",
+          "desc": "Explore well-known quantum algorithms such as Shor's algorithm for factoring and Grover's algorithm for search optimization. These algorithms showcase the potential power of quantum computation.",
+          "list": [
+            {
+              "text": "Shor's algorithm can efficiently factorize large numbers, threatening classical encryption."
+            },
+            {
+              "text": "Grover's algorithm accelerates unstructured search processes by providing quadratic speedups."
+            },
+            {
+              "text": "Quantum Fourier Transform is a core component of many quantum algorithms."
+            }
+          ]
+        },
+        {
+          "id": "example3",
+          "title": "Experiment with Quantum Hardware",
+          "subTitle": "Simulators and Real Devices",
+          "img": "/images/utilize-img/ut-image-03.png",
+          "desc": "Use quantum simulators or access real quantum computers via cloud platforms like IBM Quantum, Google Quantum AI, or Rigetti Computing. Hands-on experience is invaluable for grasping quantum computing concepts.",
+          "list": [
+            {
+              "text": "IBM Quantum Experience offers access to real quantum devices and simulators."
+            },
+            {
+              "text": "Google's Sycamore processor achieved quantum supremacy by solving tasks beyond classical capabilities."
+            },
+            {
+              "text": "Rigetti's platform provides hybrid quantum-classical solutions for practical applications."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

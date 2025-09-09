@@ -1,0 +1,880 @@
+{
+  "navDashboardItem": [
+    {
+      "link": "/profile-details",
+      "text": "Profile"
+    },
+    {
+      "link": "/notification",
+      "text": "Notification"
+    },
+    {
+      "link": "/chat-export",
+      "text": "Chat Export"
+    },
+    {
+      "link": "/appearance",
+      "text": "Appearance"
+    },
+    {
+      "link": "/plans-billing",
+      "text": "Plans and Billing"
+    },
+    {
+      "link": "/sessions",
+      "text": "Sessions"
+    }
+  ],
+  "nav": [
+    {
+      "link": "/",
+      "isIcon": false,
+      "isMenu": false,
+      "text": "Home"
+    },
+    {
+      "link": "#",
+      "text": "GPT",
+      "isIcon": true,
+      "isMenu": true,
+      "dropdown": true,
+      "subItem": [
+        {
+          "link": "/text-generator",
+          "isDisable": false,
+          "title": "Text",
+          "badge": ""
+        },
+        {
+          "link": "/image-generator",
+          "isDisable": false,
+          "title": "Image",
+          "badge": ""
+        },
+        {
+          "link": "/speech-to-text",
+          "isDisable": false,
+          "title": "Audio",
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "link": "/com-stocks",
+      "isIcon": false,
+      "isMenu": false,
+      "text": "Stocks"
+    },
+    {
+      "link": "/blog",
+      "isIcon": false,
+      "isMenu": false,
+      "text": "News"
+    },
+    {
+      "link": "/roadmap",
+      "isIcon": false,
+      "isMenu": false,
+      "text": "Roadmap"
+    },
+    {
+      "link": "/utilize",
+      "isIcon": false,
+      "isMenu": false,
+      "text": "Learn"
+    }
+  ],
+  "smallNavItem": [
+    {
+      "link": "/text-generator",
+      "isDisable": false,
+      "type": "default",
+      "img": "/images/generator-icon/text.png",
+      "text": "Text",
+      "badge": "",
+      "icon": ""
+    },
+    {
+      "link": "/image-generator",
+      "isDisable": false,
+      "type": "default",
+      "img": "/images/generator-icon/photo.png",
+      "text": "Image",
+      "badge": "",
+      "icon": ""
+    },
+    {
+      "link": "/speech-to-text",
+      "isDisable": false,
+      "type": "default",
+      "img": "/images/generator-icon/voice.png",
+      "text": "Audio",
+      "badge": "",
+      "icon": ""
+    }
+
+  ],
+  "toolsItem": [
+    {
+      "link": "/text-generator",
+      "isDisable": false,
+      "title": "Text Generator",
+      "img": "/images/generator-icon/text_line.png",
+      "badge": "",
+      "wdt": 40
+    },
+    {
+      "link": "/image-generator",
+      "isDisable": false,
+      "title": "Image Generator",
+      "img": "/images/generator-icon/photo_line.png",
+      "badge": "",
+      "wdt": 36
+    },
+    {
+      "link": "/speech-to-text",
+      "isDisable": false,
+      "title": "Speech to text",
+      "img": "/images/generator-icon/voice_line.png",
+      "badge": "",
+      "wdt": 27
+    }
+  ],
+  "rightPanel": [
+    {
+      "today": [
+        {
+          "title": "AIWave Defination",
+          "isActive": true,
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Your last Question",
+          "isActive": false,
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Business Shortcurt Methode",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Best way to maintain code Quality",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        }
+      ],
+      "yesterday": [
+        {
+          "title": "How to write a code",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Form Html CSS JS",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "HTML Shortcurt Methode",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Best way to maintain code Quality",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "AIWave Defination",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Your last Question",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Unique Shortcurt Methode",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Generate a circle Image",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        }
+      ],
+      "previous": [
+        {
+          "title": "User Assistant Request",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Funtion Js",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Generate a Image",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Best way to maintain code Quality",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "AIWave Defination",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Your last Question",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Unique Shortcurt Methode",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Best way to maintain Remote Team",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        }
+      ],
+      "older": [
+        {
+          "title": "AI writing: Free Trial",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Your last Question",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Education Shortcurt Methode",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "1992 Environment Policy",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Senior UX/UI Design",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Your last Question",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Dark Mode Html CSS JS",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        },
+        {
+          "title": "Best way to maintain Remote Team",
+          "list": [
+            {
+              "icon": "refresh-cw",
+              "text": "Regenerate"
+            },
+            {
+              "icon": "tag",
+              "text": "Pin Chat"
+            },
+            {
+              "icon": "file-text",
+              "text": "Rename"
+            },
+            {
+              "icon": "share-2",
+              "text": "Share"
+            },
+            {
+              "icon": "trash-2",
+              "text": "Delete Chat"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "leftPanel": [
+    {
+      "link": "/text-generator",
+      "isDisable": false,
+      "title": "Text",
+      "img": "/images/generator-icon/text.png",
+      "badge": ""
+    },
+    {
+      "link": "/image-generator",
+      "isDisable": false,
+      "title": "Image",
+      "img": "/images/generator-icon/photo.png",
+      "badge": "NEW"
+    },
+    {
+      "link": "/speech-to-text",
+      "isDisable": false,
+      "title": "Audio",
+      "img": "/images/generator-icon/voice.png",
+      "badge": ""
+    }
+  ]
+}

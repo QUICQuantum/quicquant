@@ -1,0 +1,449 @@
+.eff .container {
+    background: url("../../images/bg/Card.svg");
+}
+
+.eff2 .col-mob {
+  display:flex;
+  flex-direction:row; 
+  background:none; 
+  height: auto;
+}
+
+.chatbotFeatures {
+    display: flex;
+    max-width: 532px;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  
+  .featuresContainer {
+    display: flex;
+    width: 100%;
+    padding-right: 64px;
+    align-items: flex-start;
+    gap: 40px;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+  
+  .chat-container {
+    display: flex;
+    padding-top: 32px;
+    flex-direction: column;
+    align-items: center;
+    background: url("../../images/bg/Graphic.svg");
+    background-repeat: no-repeat;
+    background-position: center top;
+    overflow-y: scroll;
+    scrollbar-width: none;
+  }
+
+  .eff .chat-container {
+    height: 368px;
+  }
+
+  .eff2 .chat-container {
+    background:none; 
+    margin-top:150px; 
+    max-height: -webkit-fill-available;
+  }
+
+  .eff-left {
+    position: absolute;
+    transform: translateY(-50%) translateX(20%);
+     width: fit-content;
+  }
+  
+  .eff-right {
+    position:absolute; 
+    top: 20%; 
+    right: 0; 
+    width: fit-content; 
+    transform:translateX(-20%);
+  }
+
+  .eff2-left {
+    position:absolute; 
+    margin-top:80px;
+  }
+
+  .featureCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex: 1;
+    flex-basis: 0%;
+  }
+
+  @media only screen and (max-width: 400px) {
+    .featureCard {
+      flex-basis: 50%;
+    }
+  }
+
+  .featureTitle {
+    letter-spacing: -0.23px;
+    margin-top: 24px;
+    font-family: Satoshi-Medium;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; /* 173.913% */
+    letter-spacing: -0.23px;
+  }
+  
+  .ctaContainer {
+    display: flex;
+    width: 100%;
+    align-items: flex-start;
+    gap: 16px;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .button {
+    display: flex;
+    min-height: 40px;
+    align-items: center;
+    gap: 4px;
+    justify-content: center;
+    padding: 12px;
+    border-radius: 5px;
+    font: 500 14px Satoshi, sans-serif;
+    cursor: pointer;
+  }
+  
+  .button.primary {
+    background-color: transparent;
+    color: #ffffff;
+    border: none;
+  }
+  
+  .button.outline {
+    border-radius: 5px;
+    border: 1px solid var(--slate-700, #334155);
+    color: #ffffff;
+    background: transparent;
+  }
+  
+  .buttonText {
+    align-self: stretch;
+    margin: auto 0;
+  }
+  
+  .buttonIcon {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 16px;
+  }
+
+.eff .container{
+    background: 
+    radial-gradient(100% 100% at 50% 0%, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0) 74.01%),
+    url(/_next/static/media/Card.b3f999b2.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+}
+
+.eff .container .row {
+  height: 50%;
+  position: relative;
+}
+
+
+
+
+  
+
+
+  @media only screen and (max-width: 1400px) {
+    .eff-left {
+      transform:  translateY(-50%) translateX(-5%);
+    }
+    .eff-right {
+      transform: translateX(5%);
+    }
+    .featuresContainer {
+      padding-right: 9px;
+    }
+  }
+  
+
+  @media only screen and (max-width: 1199px) {
+    .eff-left {
+      transform:  translateY(-50%) translateX(-16%);
+    }
+    .eff-left img {
+      width: 245px;
+    }
+    .eff-right {
+      transform: translateX(10%);
+    }
+    .eff-right img {
+      width: 210px;
+    }
+    .eff2 .container > div:nth-child(2) {
+      height: 720px;
+    }
+    .eff2 .container > div:nth-child(1) {
+      padding: 44px!important;
+    }
+  }
+
+  @media only screen and (max-width: 1050px) {
+    .eff-left {
+      transform: translateY(-50%) translateX(-8%);
+    }
+    .eff-left img {
+      width: 220px;
+  }
+  }
+  @media only screen and (max-width: 991px) {
+    .featuresContainer {
+      max-width: 100%;
+      padding-right: 20px;
+    }
+    .chat-container {
+      margin-top: 0!important;
+    }
+    .eff2-left {
+      margin-top: 0;
+      position: relative;
+    }
+    .eff2 .container > div:nth-child(2) {
+      height: 460px;
+  }
+  .eff .container .row {
+    height: auto;
+    position: relative;
+}
+.eff2 .col-mob {
+  flex-direction: column;
+}
+.ctaContainer {
+  max-width: 100%;
+}
+.eff .container{
+  background:  radial-gradient(100% 100% at 50% 0%, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0) 74.01%);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.eff2 .chat-container {
+  max-height:calc(100% - 73px);
+}
+  }
+  .chat-message {
+    display: flex;
+    width: 625px;
+    max-width: 100%;
+    padding: 4px;
+    align-items: center;
+    gap: 16px;
+    margin-top: 10px;
+  }
+  
+  .chat-message.user {
+    justify-content: flex-end;
+    text-align: right;
+  }
+  
+  .message-content {
+    border-radius: 8px;
+    background-color: rgba(128, 128, 128, 0.1);
+    padding: 12px 15px;
+    font-family:
+      Satoshi,
+      -apple-system,
+      Roboto,
+      Helvetica,
+      sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: -0.23px;
+    line-height: 1.4;
+  }
+  
+  .user-avatar {
+    background-color: rgba(217, 217, 217, 1);
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+  }
+  
+  .user-avatar-img {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    object-fit: contain;
+  }
+  
+  .bot-avatar {
+    border-radius: 6.6px;
+    background: linear-gradient(180deg, #8a67ea 0%, #6d4ec2 100%);
+    width: 24px;
+    padding: 5px 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .bot-icon {
+    border-radius: 5px;
+    background-color: #000;
+    height: 8px;
+    width: 100%;
+  }
+  
+  .message-wrapper {
+    flex: 1;
+    min-width: 240px;
+  }
+  
+  .message-bubble {
+    border-radius: 8px;
+    background-color: rgba(128, 128, 128, 0.1);
+    padding: 12px 15px;
+    font-family:
+      Satoshi,
+      -apple-system,
+      Roboto,
+      Helvetica,
+      sans-serif;
+    font-size: 13px;
+    opacity: 0.8;
+    line-height: 1.4;
+    letter-spacing: -0.23px;
+  }
+  
+  .code-block {
+    border-radius: 8px;
+    background-color: rgba(128, 128, 128, 0.1);
+    margin-top: 16px;
+    padding: 4px;
+    width: 100%;
+  }
+  
+  .code-header {
+    display: flex;
+    padding: 0 8px;
+    align-items: center;
+    justify-content: space-between;
+    font-family:
+      Satoshi,
+      -apple-system,
+      Roboto,
+      Helvetica,
+      sans-serif;
+    font-size: 13px;
+  }
+  
+  .copy-button {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    border-radius: 8px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    font-family: inherit;
+    font-size: inherit;
+  }
+  
+  .copy-icon {
+    width: 16px;
+    height: 16px;
+    object-fit: contain;
+  }
+  
+  .code-content {
+    border-radius: 4px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-top: 4px;
+    padding: 8px;
+    font-family:
+      IBM Plex Mono,
+      monospace;
+    font-size: 13px;
+    line-height: 18px;
+    white-space: pre-wrap;
+  }
+  
+  .image-gallery {
+    border-radius: 8px;
+    background-color: rgba(128, 128, 128, 0.1);
+    margin-top: 16px;
+    padding: 4px;
+    width: 100%;
+  }
+  
+  .gallery-header {
+    display: flex;
+    padding: 0 8px;
+    min-height: 24px;
+    align-items: center;
+    justify-content: space-between;
+    font-family:
+      Satoshi,
+      -apple-system,
+      Roboto,
+      Helvetica,
+      sans-serif;
+    font-size: 13px;
+  }
+  
+  .enhance-button {
+    border-radius: 8px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    font-family: inherit;
+    font-size: inherit;
+  }
+  
+  .gallery-grid {
+    margin-top: 4px;
+  }
+  
+  .gallery-row {
+    display: flex;
+    gap: 8px;
+    margin-top: 8px;
+  }
+  
+  .gallery-row:first-child {
+    margin-top: 0;
+  }
+  
+  .gallery-image {
+    width: 100%;
+    border-radius: 4px;
+    aspect-ratio: 2.79;
+    object-fit: contain;
+    min-width: 240px;
+    flex: 1;
+  }
+  
+  @media (max-width: 991px) {
+    .chat-message,
+    .message-wrapper,
+    .code-block,
+    .code-header,
+    .code-content,
+    .image-gallery,
+    .gallery-header,
+    .gallery-grid {
+      max-width: 100%;
+    }
+  
+    .copy-button,
+    .enhance-button {
+      white-space: normal;
+    }
+  }
+  
